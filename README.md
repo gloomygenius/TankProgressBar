@@ -1,3 +1,3 @@
-# RevolutProgressBar
+# TankProgressBar
 
-A pretty revolut progress bar for IntelliJ IDEA and other JetBrains IDEs.
+A pretty tank progress bar for IntelliJ IDEA and other JetBrains IDEs.
